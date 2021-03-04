@@ -1,18 +1,28 @@
-<!DOCTYPE HTML>
 <html>
-<head>
-    <title>DDBandits Greeting</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-</head>
-<body>
-<p><a href="/greeting">Greet the world!</a></p>
 
-<form action="/hello" method="GET" id="nameForm">
-    <div>
-        <label for="nameField">What's your name?</label>
-        <input name="myName" id="nameField">
-        <button onclick="window.location.href='https://debug-data-bandits-website.herokuapp.com/hello'">Greet me!</button>
-    </div>
+<head>
+    <title>NameTest</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+<form action="PayslipServlet" method="get">
+    Last Name:    <input type="text" name="lname" id="lname"><br/>
+    First Name:   <input type="text" name="fname" id="fname"><br/>
+    Middle Name:  <input type="text" name="mname" id ="mname"><br/>
+    Hello <span id="result"></span>
+    <br>
+    <input type="button" value="Submit" onClick="pr()">
 </form>
+
+<script>
+    function pr() {
+        document.getElementById("result").innerHTML = document.getElementById('fname').value + " " + document.getElementById('mname').value + " " + document.getElementById('lname').value;
+    }
+</script>
+
 </body>
+
 </html>
