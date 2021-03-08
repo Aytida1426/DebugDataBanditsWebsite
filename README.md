@@ -76,3 +76,34 @@ This is a Spring Boot Application Website created by the DebugDataBandits. The w
 - Simply click on the tabs at the top to access the different features of the website, including the various programs.
 - Clicking on the "Journals" button at the bottom will take the user to the Study Journals page of the website.
 - Clicking on the "Previous Project Repo" button at the bottom will take the user to the repository for the City Simulation Project.
+
+###### 2. Greeting
+
+- The user must input an answer in the "Last Name" field.
+- The user must input an answer in the "First Name" field.
+- The user must input an answer in the "Middle Name" field.
+- Click the "Submit" button to receive the greeting!
+
+###### 3. Calculator
+
+- For the simple calculator, enter a number in the field on the left, then enter a number in the field on the right.
+- Click either the "+", "-", "*", or "/" button to perform the respective operation.
+- For the advanced calculator, enter a number in the field.
+- Click either the "fib", "!", Sqrt, or "^" button to perform the respective operation.
+- In either calculator, click the "C" button to clear the calculation.
+
+###### 4. Snake
+
+- Once the application window has opened, the snake will already be moving.
+- To control the movement of the snake, press the "up" arrow key to go up, the "down" arrow key to move down, the "left" arrow key to move left, and the "right" arrow key to move right.
+- To objective is to eat as much "food" as possible; the "food" is the blue square on the grid.
+- To exit the game, simply press the "X" on the top right of the application window.
+- To restart the program, run the program once again.
+
+###### 5. Tic Tac Toe
+
+- Once the application window has opened, a grid will appear.
+- Player 1 goes first, & is assigned the symbol "X", while Player 2 goes second, & is assigned the symbol "O".
+- Take turns using the mouse to click on a square in the gird in which to place the symbol.
+- Whoever gets three of their respective symbol in a column, in a row, or in a diagonal wins the game.
+- If neither player gets three of their respective symbol in a column, in a row, or in a diagonal, a tie occurs.
