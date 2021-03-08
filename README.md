@@ -68,3 +68,11 @@ This is a Spring Boot Application Website created by the DebugDataBandits. The w
 - To access our Previous Project Repo from the website, first click [here](https://debug-data-bandits-website.herokuapp.com/) to access our website.
 - Next, click on the "Previous Project Repo" button at the bottom.
 - This will take the user to our repository for the City Simulation Project we worked on during the first half of Trimester 2.
+
+## How to Use
+
+###### 1. Website
+
+- Simply click on the tabs at the top to access the different features of the website, including the various programs.
+- Clicking on the "Journals" button at the bottom will take the user to the Study Journals page of the website.
+- Clicking on the "Previous Project Repo" button at the bottom will take the user to the repository for the City Simulation Project.
