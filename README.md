@@ -31,6 +31,12 @@ NOTE: SEPARATE GITHUB REPOSITORIES WERE USED IN ORDER TO MAINTAIN ORGANIZATION T
 - [Link](https://github.com/AdityaS1426/SnakeGame) to Snake Game Repository
 - [Link](https://github.com/AdityaS1426/TicTacToe) to Tic Tac Toe Repository
 
+## Video Demonstrations
+
+- [Link to Website Demonstration Video](https://drive.google.com/file/d/16IfoIzSuXgeewQGXfVN5sG4CIgAeDqmg/view?usp=sharing)
+- [Link to Snake Game Demonstration Video](https://www.youtube.com/watch?v=oBamewtvGrc)
+- [Link to Tic Tac Toe Demonstration Video](https://www.youtube.com/watch?v=6J9DQIExc6M)
+
 ## How to Run
 
 ###### 1. Website
@@ -38,7 +44,7 @@ NOTE: SEPARATE GITHUB REPOSITORIES WERE USED IN ORDER TO MAINTAIN ORGANIZATION T
 - To access the website, click on the link provided above.
 - NOTE: Our team had difficulty figuring out how to make the CSS formatting work when deployed, so the link to the website above leads to a non-CSS formatted website.
 - However, to access the CSS formatting, pull this repository from the Main branch, navigate to the Index.htmml file, & click on one of the browser icons that appears when the mouse hovers over the HTML file.
-- Or, watch this demonstration video to look at the CSS formatting.
+- Or, watch this [demonstration video](https://drive.google.com/file/d/16IfoIzSuXgeewQGXfVN5sG4CIgAeDqmg/view?usp=sharing) to look at the CSS formatting.
 
 ###### 2. Greeting
 
