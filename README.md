@@ -138,3 +138,36 @@ CLICK [HERE](https://github.com/AdityaS1426/DebugDataBanditsWebsite/issues) TO A
 - HTML "Label" is used for the "Submit" button.
 - Simple "Print" statement is used to display Greeting.
 - Like the rest of the website, Spring Annotations are used in the GreetingController class to map the program to a branch of the website.
+
+###### 3. Calculator
+
+CLICK [HERE](https://github.com/AdityaS1426/SpringBootCalculator/issues) TO ACCESS THE ISSUES SECTION.
+
+- Like in the Greeting program above, HTMML is used for basic layout.
+  - "Form" used to create fields for user input.
+  - "Label" used for "Submit" button, which returns the result of the desired calculation.
+- Inheritance is used to access the attributes of the OperationModel class; these attributes are used in the logic to perform the various calculations.
+- Boolean Statements & Primitive Types are used for the logic of the various functions.
+- Getters & Setters are used to acccept user input & upload it to the calculator for peforming calculations.
+
+###### 4. Snake
+
+CLICK [HERE](https://github.com/AdityaS1426/SnakeGame/issues) TO ACCESS THE ISSUES SECTION.
+
+- Arrays, 2D Arrays, & ArrayLists are used to create the grid that the snake moves on.
+- Getters & Setters are used to control the placement of the "food".
+- Random Methods are used to position the food.
+- The "keyAdapter" & "keyPressed" functions are used to take keyboard input from the user.
+- JPanel functions are used to set up the colors, the application window features, the application window size, etc.
+- Variables are used to control the speed, starting position, & length of the snake.
+- These features of the snake are updated using an ArrayList as keyboard input comes in.
+- Iteration is used to check whether the status of the snake, such as if it's not hitting anything, hitting food, hitting itself, etc.
+- Switch Cases are used to refresh the data-carrying ArrayList.
+
+###### 5. Tic Tac Toe
+
+CLICK [HERE](https://github.com/AdityaS1426/TicTacToe/issues) TO ACCESS THE ISSUES SECTION.
+
+- 2D Arrays & ArrayLists are used to form the Tic Tac Toe grid.
+- Boolean Statements, Switch Cases, & Iteration are used to check whether a player wins, loses, or ties.
+- Primitive Types & JPanel functions are used to create the lines separating the grid into nine squares.
