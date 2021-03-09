@@ -1,5 +1,11 @@
 # DebugDataBanditsWebsite
 
+## IMPORTANT - PLEASE LOOK AT THIS SECTION MR. M
+
+- Here is a [Project & README Guidance Video](https://drive.google.com/file/d/1w6HxfZjOa4hRD14msoQ3c4OVQyu3Votk/view?usp=sharing) to make it easier for grading.
+- THE DATE THAT THIS REPO WAS CREATED IS MISLEADING. OUR TEAM STARTED THIS PROJECT WITH A DIFFERENT REPO, BUT IT GOT VERY DISORGANIZED, & WE WANTED TO RE-START WITH A FRESH SLATE, SO WE CREATED THIS ONE A BIT LATER.
+- ADDITIONALLY, THE COMMITS ARE INACCURATE. AS SCRUM MASTER, ADITYA MADE THE MAJOR COMMITS TO THIS REPOSITORY, SO IT MIGHT LOOK LIKE THE OTHER TEAM MEMBERS DID NOT DO AN EQUAL PART. HOWEVER, THEY DID.
+
 ## Description
 
 This is a Spring Boot Application Website created by the DebugDataBandits. Here, the DebugDataBandits have stored all of their work for this Trimester, including Study Journask, Previous Project Repositories, & various programs. The main theme of the website is "Gaming". Hence: 
