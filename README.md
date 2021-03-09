@@ -195,3 +195,10 @@ CLICK [HERE](https://github.com/AdityaS1426/TicTacToe/issues) TO ACCESS THE ISSU
 - 2D Arrays & ArrayLists are used to form the Tic Tac Toe grid.
 - Boolean Statements, Switch Cases, & Iteration are used to check whether a player wins, loses, or ties.
 - Primitive Types & JPanel functions are used to create the lines separating the grid into nine squares.
+
+## Future Goals
+
+- Figure out how to make CSS formatting appear on deployed website.
+- Work on more advanced programs.
+- Ex. MyConnect Simulator, Synergy Simulator, Amazon Simulator
+- Use SQL or other related database development tools in our project.
