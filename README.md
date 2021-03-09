@@ -16,6 +16,7 @@ This is a Spring Boot Application Website created by the DebugDataBandits. The w
 
 ## Link to Website
 
+- The website was deployed using Heroku.
 - Click [here](https://debug-data-bandits-website.herokuapp.com/) to access the website.
 
 ## How to Run
@@ -107,3 +108,33 @@ This is a Spring Boot Application Website created by the DebugDataBandits. The w
 - Take turns using the mouse to click on a square in the gird in which to place the symbol.
 - Whoever gets three of their respective symbol in a column, in a row, or in a diagonal wins the game.
 - If neither player gets three of their respective symbol in a column, in a row, or in a diagonal, a tie occurs.
+
+## Technicals
+
+###### 1. Website
+
+NOTE: The most important technicals for each aspect of the project will be outlined here, but further technicals WITH LINKS TO CODE can be found in the Issues section of the repositories.
+
+###### 1. Website
+
+  CLICK [HERE](https://github.com/AdityaS1426/DebugDataBanditsWebsite/issues) TO ACCESS THE ISSUES SECTION.
+
+- Spring Annotations, such as GetMapping & RequestMapping, are used to map various branches of the website.
+- HTML is used to create basic website layout.
+  - Content of the website
+  - Insert Links to Access Other Features of the website
+- CSS is used to format the website.
+  - Background Image
+  - Button Hovering Feature (When the mouse is hovering above a button, the butoon changes color.)
+  - Logo for Team
+  - Colors on Website
+  - Navigation Bar
+
+###### 2. Greeting
+
+CLICK [HERE](https://github.com/AdityaS1426/DebugDataBanditsWebsite/issues) TO ACCESS THE ISSUES SECTION.
+
+- HTML "Form" is utilized to take in user input.
+- HTML "Label" is used for the "Submit" button.
+- Simple "Print" statement is used to display Greeting.
+- Like the rest of the website, Spring Annotations are used in the GreetingController class to map the program to a branch of the website.
