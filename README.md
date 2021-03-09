@@ -113,7 +113,7 @@ This is a Spring Boot Application Website created by the DebugDataBandits. The w
 
 ###### 1. Website
 
-NOTE: The most important technicals for each aspect of the project will be outlined here, but further technicals WITH LINKS TO CODE can be found in the Issues section of the repositories.
+NOTE: The most important technicals for each aspect of the project will be outlined here, but further technicals WITH LINKS TO CODE can be found in the Issues section of the repositories, which are linked in each section below.
 
 ###### 1. Website
 
