@@ -2,7 +2,11 @@
 
 ## Description
 
-This is a Spring Boot Application Website created by the DebugDataBandits. The website's theme is "Gaming", which is why there's a "Gaming Controller Logo" seen on the top left of the website. Some of the programs that can be accessed via this site are related to Gaming as well. The background image on the website includes a Rainbow Six Siege Bandit, which the "DebugDataBandits" team name originates from. Furthermore, the colors used throughout the website, such as black, white, & teal give the website a Gaming vibe.
+This is a Spring Boot Application Website created by the DebugDataBandits. Here, the DebugDataBandits have stored all of their work for this Trimester, including Study Journask, Previous Project Repositories, & various programs. The main theme of the website is "Gaming". Hence: 
+- There's a "Gaming Controller Logo" seen on the top left of the website.
+- The background image on the website includes a Rainbow Six Siege Bandit, which the "DebugDataBandits" team name originates from.
+- A lot of the programs that can be accessed via this site are related to "Gaming".
+- The colors used throughout the website, such as black, white, & teal give the website a Gaming vibe.
 
 ## Features of the Site
 
@@ -18,6 +22,14 @@ This is a Spring Boot Application Website created by the DebugDataBandits. The w
 
 - The website was deployed using Heroku.
 - Click [here](https://debug-data-bandits-website.herokuapp.com/) to access the website.
+
+## Link to Other GitHub Repositories Used in the Project
+
+NOTE: SEPARATE GITHUB REPOSITORIES WERE USED IN ORDER TO MAINTAIN ORGANIZATION THROUGHOUT THE PROJECT.
+
+- [Link](https://github.com/AdityaS1426/SpringBootCalculator) to Calculator Repository
+- [Link](https://github.com/AdityaS1426/SnakeGame) to Snake Game Repository
+- [Link](https://github.com/AdityaS1426/TicTacToe) to Tic Tac Toe Repository
 
 ## How to Run
 
