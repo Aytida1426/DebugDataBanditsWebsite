@@ -34,6 +34,7 @@ NOTE: SEPARATE GITHUB REPOSITORIES WERE USED IN ORDER TO MAINTAIN ORGANIZATION T
 ## Video Demonstrations
 
 - [Link to Website Demonstration Video](https://drive.google.com/file/d/16IfoIzSuXgeewQGXfVN5sG4CIgAeDqmg/view?usp=sharing)
+- [Link to Calculator Demonstration Video](https://www.youtube.com/watch?v=38ME8ryjCIk)
 - [Link to Snake Game Demonstration Video](https://www.youtube.com/watch?v=oBamewtvGrc)
 - [Link to Tic Tac Toe Demonstration Video](https://www.youtube.com/watch?v=6J9DQIExc6M)
 
