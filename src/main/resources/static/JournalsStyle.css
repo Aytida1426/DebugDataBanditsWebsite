@@ -94,3 +94,10 @@ button:hover span{
 button:hover{
     border: none;
 }
+html {
+  background: url(Background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
